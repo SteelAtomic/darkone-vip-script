@@ -1,8 +1,4 @@
-# darkone-fucking-sucks
-cracked his script LMAOOOOOOOOO
-
-yes you heard it
-I CRACKED IT FUCK DARKONE
-YEAH 
+# darkones vip script
+script that i cracked a long time ago
 loadstring:
 ```loadstring(game:HttpGet("https://darkonescriptcracked.childish-skids.xyz/p/5uNdGl35HzHD"))()```
